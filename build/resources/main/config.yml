@@ -1,0 +1,22 @@
+npc-name: "&5&lSzaman"
+mysql:
+  host: host
+  port: 3306
+  name: name
+  user: user
+  password: password
+currency:
+  item-type: Nie ustawione
+  item-name: Nie ustawione
+start-value:
+  strength: 100
+  life: 50
+  lifesteal: 50
+  drop: 100
+  entrapment: 100
+messages:
+  lifesteal: "&aPerk wampiryzmu uleczył cię!"
+  drop: "&aPerk dropu podwoił twój wykopany blok!"
+  entrapment:
+    attacker: "&aUwięziłeś gracza {PLAYER}, nie może on używać fajerwerek przez 5 sekund!"
+    victim: "&aZostałeś uwięziony, nie możesz używać fajerwerek!"

@@ -1,0 +1,7 @@
+name: VitalPlugins_szaman
+version: '${version}'
+main: vitalplugins.vitalplugins_szaman.Main
+api-version: '1.16'
+commands:
+  szaman:
+    description: Plugin na szamana
